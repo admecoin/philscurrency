@@ -66,4 +66,6 @@ on all categories (and give you a very large debug.log file).
 
 The Qt code routes qDebug() output to debug.log under category "qt": run with -debug=qt
 to see it.
-
+#### Bitcoin donations welcome: 3BJbCUdJ8mhZn9B2Ncz1JBBEbe1R8816AW
+#### Litcoin donations welcome: MQRLB7gYHBAZuY8erwbMTguG24CBAwgwo4
+#### Dash coin donations welcome: XsXNddLuVLc1b1Q2DDqniSvwYbpq7F2BLe
